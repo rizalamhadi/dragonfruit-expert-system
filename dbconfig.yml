@@ -1,0 +1,19 @@
+development:
+  dialect: mysql
+  datasource: root:@/dragon?charset=utf8&parseTime=True&loc=Local
+  dir: database/migrations
+
+staging:
+  dialect: mysql
+  datasource:
+  dir: database/migrations
+
+production:
+  dialect: mysql
+  datasource:
+  dir: database/migrations
+
+test:
+  dialect: mysql
+  datasource:
+  dir: database/migrations

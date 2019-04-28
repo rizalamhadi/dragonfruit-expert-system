@@ -1,0 +1,10 @@
+environment: development
+port: 8807
+
+development:
+  db_type: mysql
+  db_name: dragon
+  db_username: root
+  db_password: 
+  db_port: 3306
+  db_host: 127.0.0.1
