@@ -1,6 +1,6 @@
 # Dragon Fruit Diseases Identification
 
-Export System for Dragon Fruit Diseases Identification using Forward Chaining method and Breadth First Search.
+Expert System for Dragon Fruit Diseases Identification using Forward Chaining method and Breadth First Search.
 Back End https://github.com/rizalamhadi/dragonfruit-expert-system-FE
 
 ## Requirement
